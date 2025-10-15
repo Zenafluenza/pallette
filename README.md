@@ -1,0 +1,2 @@
+# pallette
+Page for Pallette
